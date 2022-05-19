@@ -1,0 +1,15 @@
+
+---------CONF_PARSING---------
+map <path, Server*> location
+condition hostname a definir
+-ip
+default body size int max
+rewrite permanent redirect
+multi server_name
+return 
+
+init_loc_tmp autoindex grosse faille
+(verfifier redirect)~~~
+
+-------INDEX_GENERATOR-------
+corriger 1st line
